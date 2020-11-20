@@ -1,0 +1,9 @@
+C:\Users\Simon_Whale\Source\Repos\PDRTechnicalTest\PDR.PatientBooking.Data\bin\Debug\netcoreapp3.1\PDR.PatientBooking.Data.deps.json
+C:\Users\Simon_Whale\Source\Repos\PDRTechnicalTest\PDR.PatientBooking.Data\bin\Debug\netcoreapp3.1\PDR.PatientBooking.Data.dll
+C:\Users\Simon_Whale\Source\Repos\PDRTechnicalTest\PDR.PatientBooking.Data\bin\Debug\netcoreapp3.1\PDR.PatientBooking.Data.pdb
+C:\Users\Simon_Whale\Source\Repos\PDRTechnicalTest\PDR.PatientBooking.Data\obj\Debug\netcoreapp3.1\PDR.PatientBooking.Data.csprojAssemblyReference.cache
+C:\Users\Simon_Whale\Source\Repos\PDRTechnicalTest\PDR.PatientBooking.Data\obj\Debug\netcoreapp3.1\PDR.PatientBooking.Data.AssemblyInfoInputs.cache
+C:\Users\Simon_Whale\Source\Repos\PDRTechnicalTest\PDR.PatientBooking.Data\obj\Debug\netcoreapp3.1\PDR.PatientBooking.Data.AssemblyInfo.cs
+C:\Users\Simon_Whale\Source\Repos\PDRTechnicalTest\PDR.PatientBooking.Data\obj\Debug\netcoreapp3.1\PDR.PatientBooking.Data.csproj.CoreCompileInputs.cache
+C:\Users\Simon_Whale\Source\Repos\PDRTechnicalTest\PDR.PatientBooking.Data\obj\Debug\netcoreapp3.1\PDR.PatientBooking.Data.dll
+C:\Users\Simon_Whale\Source\Repos\PDRTechnicalTest\PDR.PatientBooking.Data\obj\Debug\netcoreapp3.1\PDR.PatientBooking.Data.pdb
